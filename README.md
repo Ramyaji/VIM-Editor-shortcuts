@@ -1,5 +1,7 @@
 # VIM-Editor-shortcuts (Used as Text Editor) Vim/Vi/nano
 
+(https://sites.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)
+
 cat filename.txt= to read content in filename.txt
 cat > filename.txt ( to create and edit as new file)
 cat is only used for editing small files it not helpful if we have many lines in file here come vim to help  1000's of lines easily
